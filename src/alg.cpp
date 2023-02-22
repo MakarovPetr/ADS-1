@@ -14,7 +14,7 @@ bool checkPrime(uint64_t value) {
 uint64_t nPrime(uint64_t n) {
     int count = 0;
     int a = 1;
-    int	chislo = 0;
+    int chislo = 0;
     while (count != n) {
         bool Flag = true;
         a++;
